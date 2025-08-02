@@ -2,7 +2,7 @@
 
 
 
-1\. Flat File Systems vs. Relational Databases
+## 1\. Flat File Systems vs. Relational Databases
 
 
 
@@ -24,23 +24,21 @@
 
 
 
-2\. DBMS Advantages – Mind Map
+## 2) DBMS Advantages – Mind Map
 
-
-
-!\[DBMS Advantages Mind Map](images/dbms-mindmap.png)
-
+![DBMS Advantages Mind Map](images/dbms-mindmap.png)
 
 
 
 
-3\. Roles in a Database System
+
+## 3\. Roles in a Database System
 
 
 
-4\. Types of Databases
+## 4\. Types of Databases
 
 
 
-5\. Cloud Storage and Databases
+## 5\. Cloud Storage and Databases
 
