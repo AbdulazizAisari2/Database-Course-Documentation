@@ -2,7 +2,6 @@
 
 
 
-## 1\. Flat File Systems vs. Relational Databases
 
 
 
